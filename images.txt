@@ -1,7 +1,8 @@
-docker.getcollate.io/openmetadata/db:1.4.7
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
-docker.getcollate.io/openmetadata/server:1.4.7
-docker.getcollate.io/openmetadata/ingestion:1.4.7
+#docker.getcollate.io/openmetadata/db:1.4.7
+#docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+#docker.getcollate.io/openmetadata/server:1.4.7
+#docker.getcollate.io/openmetadata/ingestion:1.4.7
+dinkydocker/dinky-standalone-server:1.1.0-flink1.17
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
