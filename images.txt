@@ -10,3 +10,4 @@ chat2db/chat2db:3.2.2
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 apache/gravitino:latest
+trinodb/trino
