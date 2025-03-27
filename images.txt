@@ -13,3 +13,4 @@ trinodb/trino
 apache/gravitino:0.8.0-incubating
 datastrato/sample-authorization-server:0.3.0
 xhofe/alist:latest
+heartexlabs/label-studio:latest
