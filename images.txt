@@ -10,7 +10,7 @@ chat2db/chat2db:3.2.2
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 trinodb/trino
-apache/gravitino:0.8.0-incubating
+apache/gravitino:0.9.0-incubating
 datastrato/sample-authorization-server:0.3.0
 xhofe/alist:latest
 heartexlabs/label-studio:latest
